@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
-  - [Praciting DS & Algos in Python](https://github.com/manuel678/IR-lab)
+  - [Setting up ELK cloud](https://github.com/manuel678/IR-lab)
   - [Practicing Incident response Plan](https://github.com/manuel678/IR-lab/blob/main/README.md)
 
 
