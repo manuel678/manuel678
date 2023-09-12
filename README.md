@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
   - [Praciting DS & Algos in Python](https://github.com/manuel678/IR-lab/blob/main/README.md)
-  - [Practicing Incident response Plan](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Practicing Incident response Plan](https://github.com/manuel678/IR-lab/blob/main/README.md)
 
 
 <h2>📺 Certifications</h2>
