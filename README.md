@@ -4,6 +4,7 @@
 
   - [Setting up ELK cloud](https://github.com/manuel678/IR-lab)
   - [Practicing Incident response Plan](https://github.com/manuel678/IR-lab/blob/main/README.md)
+  - Setting up Endpoint detection and response(EDR) on microsoft  
 
 
 <h2>📺 Certifications</h2>
